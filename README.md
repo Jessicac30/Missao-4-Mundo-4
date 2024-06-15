@@ -74,7 +74,7 @@ DELETE FROM Orders WHERE OrderID = 2;
 <h1>Resultados: </h1>
 
 <h5>Estruturação das Tabelas e Gestão de Dados</h5>
-<img src="https://github.com/Jessicac30/Missao-4-Mundo-4/blob/main/atividades/criar%20vm13.png)"  width="640" height="360">
+<img src="https://github.com/Jessicac30/Missao-4-Mundo-4/blob/main/atividades/criar%20vm13.png?raw=true)"  width="640" height="360">
 <img src="https://github.com/Jessicac30/Missao-4-Mundo-4/blob/main/atividades/criar%20vm14.png"  width="640" height="360">
 
 <br>
